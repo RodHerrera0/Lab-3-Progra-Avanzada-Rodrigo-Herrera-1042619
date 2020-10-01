@@ -1,0 +1,45 @@
+﻿  Pila.cpp
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(6,11): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(7,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(8,1): warning C4508:  'Pila': function should return a value; 'void' return type assumed
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(9,19): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(11,9): error C2065:  'First': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(14,18): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(20,3): error C2065:  'Nodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(20,9): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(20,27): error C2061:  syntax error: identifier 'Nodo'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(23,4): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(24,4): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(29,4): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(30,4): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(33,3): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(33,17): error C2065:  'First': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(34,3): error C2065:  'First': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(34,11): error C2065:  'nnodo': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(40,16): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(40,17): error C2065:  'Carta': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(40,24): error C2065:  'nd': undeclared identifier
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(40,26): error C2182:  'push': illegal use of type 'void'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(41,1): error C2448:  'push': function-style initializer appears to be a function definition
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(49,6): error C2143:  syntax error: missing ';' before '^'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(49,6): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(49,17): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(50,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(50,1): error C2059:  syntax error: '{'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(50,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(50,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(66,5): error C2143:  syntax error: missing ';' before '^'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(66,5): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(66,17): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(67,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(67,1): error C2059:  syntax error: '{'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(67,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(67,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(71,18): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(81,7): error C2143:  syntax error: missing ';' before '^'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(81,7): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(81,23): error C2653:  'Pila': is not a class or namespace name
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(82,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(82,1): error C2059:  syntax error: '{'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(82,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\herre\source\repos\Solitario\Solitario\Pila.cpp(82,1): error C2447:  '{': missing function header (old-style formal list?)
